@@ -15,6 +15,7 @@
 <h1>Introduction 🙌</h1>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 <p align="left">
+  <br/>
   - 🌱 I’m currently learning **React, javaScript**<br/>
   - 👨‍💻 All of my projects are available at [portfolio link](portfolio link)<br/>
   - 📝 I regularly write articles on [blog link](blog link)<br/>
