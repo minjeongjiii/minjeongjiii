@@ -1,19 +1,17 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm minjenog ji</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">👏It's me!👏</h1>
+<h3 align="center">
+  Frontend Developer 💻 <br/>
+  I'm growing everyday 🌱
+</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
-
-
-- 🌱 I’m currently learning **React, javaScript**
-
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
-
-- 📝 I regularly write articles on [blog link](blog link)
-
-- 📫 How to reach me **mloy0107@naver.com**
-
-
+<ul>
+  <li>🌱 I’m currently learning **React, javaScript**</li>
+  <li>👨‍💻 All of my projects are available at [portfolio link](portfolio link)</li>
+  <li>📝 I regularly write articles on [blog link](blog link)</li>
+  <li>📫 How to reach me **mloy0107@naver.com**</li>
+</ul>
 <p align="left">
 </p>
 
